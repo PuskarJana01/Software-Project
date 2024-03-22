@@ -1,0 +1,58 @@
+@import url('https://fonts.googleapis.com/css2?family=Martel+Sans:wght@600&family=Poppins:wght@300;400;700&display=swap');
+
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+body {
+    padding: 0;
+    margin: 0;
+}
+
+.tit h1 {
+    font-family: "Poppins", sans-serif;
+    font-weight: 600;
+    font-style: normal;
+    color: solid black;
+    height: 30px;
+
+}
+
+.tit {
+    background-color: rgb(193, 158, 17);
+    text-align: center;
+    padding: 40px 0;
+    height: 70px;
+    border: 2px solid black;
+    
+}
+
+.opt {
+    background-color: #888436;
+    padding: 10px 0;
+    text-align: center;
+    font-family: "Poppins", sans-serif;
+    font-weight: bold;
+    font-style: normal;
+    border: 2px solid black;
+}
+
+.opt a {
+
+    font-weight: 400;
+    font-style: normal;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px 70px;
+    background-color: rgb(46, 36, 36);
+    width: 2px;
+    border-radius: 80px;
+}
+
+.ppp {
+    background-color: rgb(145, 145, 88);
+    height: 570px;
+    font-size: large;
+}
